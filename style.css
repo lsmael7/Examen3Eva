@@ -1,0 +1,53 @@
+body{
+    background-image: url(porteria.avif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    text-align: center;
+
+}
+div{
+ columns: 2;
+margin-left: 10px;
+
+
+}
+header {
+
+    background-color: rgba(132, 0, 255, 0.849);
+    color: white;
+    text-align: center;
+    padding: 20px;
+   
+}
+
+
+#increment-btn {
+    background-color: green;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+#rest-btn{
+    background-color: rgb(161, 24, 0);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+h1{
+color: rgb(233, 218, 218);
+font-size: 50px;
+
+}
+
+button{
+font-size: 20px;
+
+}
